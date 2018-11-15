@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Task.cs](./CS/UseFunctionCriteriaOperators.Module/BusinessObjects/Task.cs) (VB: [Task.vb](./VB/UseFunctionCriteriaOperators.Module/BusinessObjects/Task.vb))**
+<!-- default file list end -->
 # How to Use Function Criteria Operators to Filter List Views
 
 
