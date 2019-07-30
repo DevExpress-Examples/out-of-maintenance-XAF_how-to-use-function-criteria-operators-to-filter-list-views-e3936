@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to Use Function Criteria Operators to Filter List Views
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3936)**
+**[[Run Online]](https://codecentral.devexpress.com/e3936/)**
 <!-- run online end -->
 
 
